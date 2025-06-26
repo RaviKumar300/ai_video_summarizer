@@ -5,7 +5,7 @@ Effortlessly summarize educational and technical videos using AI. Upload a video
 ---
 
 # Demo ScreenShot:
-![Demo Screenshot](./assets/demo.png)
+![Demo Screenshot](./assets/demo.jpg)
 
 
 ---
