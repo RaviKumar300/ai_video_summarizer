@@ -1,0 +1,92 @@
+{
+    "video_title": "How Imaginary Numbers Were Invented.",
+    "summary_title": "Mathematicians spent millennia trying to solve the cubic equation, limited by their insistence on real-world interpretations of numbers and geometry. Progress came only when they embraced abstract concepts like negative and imaginary numbers—initially considered nonsensical. This shift led to the invention of complex numbers, allowing for a general solution to the cubic and laying the groundwork for modern algebra. Centuries later, these imaginary numbers emerged at the heart of quantum mechanics, showing that letting go of reality was essential to understanding it more deeply.",
+    "total_duration": "25 minutes",
+    "summary_by_timestamps": {
+        "0:00:00 - 0:05:00": {
+            "topic": "Introduction to Cubic Equations",
+            "key_points": [
+                "Mathematics began as a way to quantify the world and measure land",
+                "In 1494, Luca Pacioli (Leonardo da Vinci's math teacher) published Summa Arithmetica",
+                "Cubic equations (x³ + bx² + cx + d = 0) had been unsolved for 4000+ years",
+                "Ancient civilizations (Babylonians, Greeks, Chinese, Indians, Egyptians, Persians) all failed to solve them",
+                "Quadratic equations were solved thousands of years earlier using geometric methods",
+                "Ancient mathematicians used visual/geometric approaches, not algebraic notation",
+                "Negative numbers were not accepted - mathematicians only worked with positive quantities"
+            ]
+        },
+        "0:05:00 - 0:10:00": {
+            "topic": "Scipione del Ferro's Breakthrough",
+            "key_points": [
+                "Around 1510, Scipione del Ferro (Bologna professor) found method to solve depressed cubics",
+                "Depressed cubics are subset without x² term",
+                "Del Ferro kept solution secret for job security (mathematics was competitive)",
+                "On deathbed (1526), revealed secret to student Antonio Fior",
+                "February 12, 1535: Fior challenged Niccolò Fontana (Tartaglia)",
+                "Tartaglia was self-taught, known as 'stammerer' due to childhood injury",
+                "Tartaglia solved 30 depressed cubics in 2 hours, Fior solved none",
+                "Tartaglia extended 'completing the square' method to three dimensions"
+            ]
+        },
+        "0:10:00 - 0:15:00": {
+            "topic": "Cardano's Involvement and Publication",
+            "key_points": [
+                "Tartaglia became celebrity mathematician after victory",
+                "Gerolamo Cardano desperately wanted to learn the method",
+                "March 25, 1539: Tartaglia revealed method to Cardano under oath of secrecy",
+                "Cardano discovered how to reduce general cubic to depressed cubic",
+                "1542: Cardano found del Ferro's original solution predated Tartaglia",
+                "1545: Cardano published 'Ars Magna' with full cubic solution",
+                "Cardano acknowledged both Tartaglia and del Ferro's contributions",
+                "General solution often called 'Cardano's method' despite controversy"
+            ]
+        },
+        "0:15:00 - 0:20:00": {
+            "topic": "Discovery of Imaginary Numbers",
+            "key_points": [
+                "Some cubic equations yielded square roots of negative numbers",
+                "Cardano encountered geometric paradox: negative areas didn't make sense",
+                "Rafael Bombelli (Italian engineer) tackled the problem 10 years later",
+                "Bombelli treated √(-1) as new type of number",
+                "Discovered that complex intermediate steps could yield real final answers",
+                "François Viète introduced modern algebraic notation (1600s)",
+                "René Descartes coined term 'imaginary numbers'",
+                "Euler introduced 'i' for √(-1), creating complex numbers"
+            ]
+        },
+        "0:20:00 - 0:25:00": {
+            "topic": "Quantum Physics Connection",
+            "key_points": [
+                "1925: Erwin Schrödinger developed wave equation for quantum particles",
+                "Schrödinger equation naturally contained √(-1)",
+                "Physicists initially uncomfortable with imaginary numbers in fundamental theory",
+                "Complex numbers exist in dimension perpendicular to real number line",
+                "Multiplying by i creates 90-degree rotations in complex plane",
+                "e^(ix) = cos(x) + i*sin(x) describes wave functions",
+                "Freeman Dyson noted imaginary numbers made Schrödinger equation work as wave equation",
+                "Schrödinger equation correctly describes atomic behavior",
+                "Imaginary numbers are fundamental to how nature works",
+                "What started as mathematical quirk became essential to understanding reality"
+            ]
+        }
+    },
+    "main_themes": [
+        "Historical development of mathematics",
+        "Transition from geometric to algebraic thinking",
+        "Acceptance of abstract mathematical concepts",
+        "Connection between pure mathematics and physical reality",
+        "Evolution from practical applications to fundamental physics"
+    ],
+    "key_figures": [
+        "Luca Pacioli (Leonardo da Vinci's teacher)",
+        "Scipione del Ferro",
+        "Niccolò Fontana (Tartaglia)",
+        "Gerolamo Cardano",
+        "Rafael Bombelli",
+        "François Viète",
+        "René Descartes",
+        "Leonhard Euler",
+        "Erwin Schrödinger",
+        "Freeman Dyson"
+    ]
+}

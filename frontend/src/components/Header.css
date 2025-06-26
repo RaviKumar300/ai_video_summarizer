@@ -1,0 +1,165 @@
+.header {
+    background-color: rgb(63, 63, 63);
+    width: 100%;
+    /* height: 90px; */
+    /* padding: 5px; */
+    margin-bottom: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.introd {
+    /* background-color: rgb(147, 160, 101); */
+    margin: 0;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+
+}
+
+.logo img {
+    height: 30px;
+    margin-right: 5px;
+    margin-left: 40px;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.companyname {
+    font-weight: 600;
+    font-size: 22px;
+    color: rgb(238, 238, 238);
+    width: 150px;
+    /* background-color: rgb(117, 100, 78); */
+    margin: 5px;
+    cursor: pointer;
+    transition: color 0.5s ease;
+}
+
+.companyname:hover {
+    color: #1686ff;
+}
+
+.blank {
+    flex: 1;
+    /* can be 0.5 too */
+    background-color: coral;
+    visibility: hidden;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    /* optional spacing from other elements */
+}
+
+.search input {
+    height: 35px;
+    padding: 0 10px;
+    margin: 0;
+    border: 1px solid #ccc;
+    border-right: none;
+    font-size: 13px;
+    width: 500px;
+
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.search input:focus {
+    border-color: #1686ff;
+    box-shadow: 0 0 0 2px rgba(22, 134, 255, 0.2);
+}
+
+.search button {
+    height: 35px;
+    width: 40px;
+    border: 1px solid #ccc;
+    background-color: #d4d4d4;
+    color: white;
+    cursor: pointer;
+
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.search button:hover {
+    background-color: #8d8d8d;
+}
+
+.theme_switch {
+    height: 35px;
+    width: 35px;
+    font-size: 22px;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+    margin-right: 15px;
+}
+
+
+.signin button,
+.login button {
+    background-color: #1686ff;
+    color: white;
+    height: 35px;
+    padding: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.5s ease;
+}
+
+.signin {
+    margin-right: 30px;
+}
+
+.login button {
+    background-color: #f1f1f1;
+    color: rgb(20, 20, 20);
+}
+
+.login button:hover {
+    background-color: #afafaf;
+}
+
+.signin button:hover {
+    background-color: #0056b3;
+}
+
+
+.uarehere {
+    /* background-color: darkseagreen; */
+    height: 25px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 13px;
+    font-weight: 500;
+    color: aliceblue;
+    border-top: 1px solid rgb(214, 214, 214);
+    background-color: #d4d4d4;
+    color: rgb(61, 61, 61);
+}
+
+.uarehere span {
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.uarehere span:hover {
+    color: rgb(52, 100, 255);
+}
