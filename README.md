@@ -1,10 +1,10 @@
-# 🎥 AI Video Summarizer
+#  QUAD TOOLS 🎥 AI Video Summarizer
 
 Effortlessly summarize educational and technical videos using AI. Upload a video or provide a YouTube link (feature in progress), extract audio, transcribe it, and generate a structured, timestamped summary using natural language processing and LLMs.
 
 ---
 
-# Demo ScreenShot:
+## Demo ScreenShot:
 ![Demo Screenshot](./assets/demo.jpg)
 
 
